@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApproveVOs>
+    <ApproveVO>
+        <pk_bill>1002ZZ10000000156BGG</pk_bill>
+        <approvestatus>N</approvestatus>
+        <pk_user_next>0001F91000000003LKLF</pk_user_next>
+        <pk_user>0001A210000000004CGL</pk_user>
+        <signseizeflag>0</signseizeflag>
+        <approvenote>hm归档来自android客户端</approvenote>
+        <pk_billtype>9923</pk_billtype>
+    </ApproveVO>
+</ApproveVOs>====响应>>>>0,成功
+
+        <?xml version="1.0" encoding="UTF-8"?>
+<ApproveVOs>
+<ApproveVO>
+    <pk_bill>1002ZZ10000000156BGG</pk_bill>
+    <approvestatus>N</approvestatus>
+    <pk_user_next>0001F91000000003LKLF</pk_user_next>
+    <pk_user>0001A210000000004DI3</pk_user>
+    <signseizeflag>1</signseizeflag>
+    <approvenote>宾哥归档</approvenote>
+    <pk_billtype>9923</pk_billtype>
+</ApproveVO>
+</ApproveVOs>====响应>>>>0,成功
+        <?xml version="1.0" encoding="UTF-8"?>
+<ApproveVOs>
+<ApproveVO>
+    <pk_bill>1002ZZ10000000156BGG</pk_bill>
+    <approvestatus>Y</approvestatus>
+    <pk_user_next>0001F91000000003LKLF</pk_user_next>
+    <pk_user>0001F91000000003LKLF</pk_user>
+    <signseizeflag>1</signseizeflag>
+    <approvenote>猜猜猜</approvenote>
+    <pk_billtype>9923</pk_billtype>
+</ApproveVO>
+</ApproveVOs>====响应>>>>0,成功
